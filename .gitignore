@@ -1,0 +1,4 @@
+Code/config/.env.development
+Code/config/.env.production
+Code/node_modules
+uploads
